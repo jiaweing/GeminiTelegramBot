@@ -7,7 +7,7 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](https://nodejs.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A powerful Telegram bot powered by Google's Gemini 2.0 Flash for natural conversations and stunning AI image generation with multimodal capabilities.
+A powerful Telegram bot powered by Google's Gemini 2.0 Flash for natural conversations and stunning [AI image generation with multimodal capabilities](https://developers.googleblog.com/en/experiment-with-gemini-20-flash-native-image-generation/).
 
 </div>
 
