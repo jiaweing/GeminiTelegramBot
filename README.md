@@ -59,7 +59,7 @@ Generate images with crisp, accurate text rendering - ideal for creating:
 1. **Clone & Install**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jiaweing/GeminiTelegramBot
    cd GeminiTelegramBot
    pnpm install
    ```
